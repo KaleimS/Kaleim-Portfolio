@@ -148,7 +148,7 @@ p {
 /*Banner*/
 
 .hero-banner div {
-  background-image: url(../assets/images/02-hero-bg.jpg);
+  background-image: url(../images/02-hero-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 67%;
