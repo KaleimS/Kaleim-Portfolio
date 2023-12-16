@@ -1,14 +1,13 @@
 # Kaleim Portfolio
 
+## Link to Portfolio
+
+https://kaleims.github.io/Kaleim-Portfolio/ 
+
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+- My aim for this project was to create a responsive Portfolio to satisfy the needs of people who may be viewing my Portfolio on a mobile or tablet, not just desktop size.
+  While creating this project I used the power of google to help me with media queries and css grid, it definitly helped gain further knowledge on those topics. This project was a my first responsive webpage, and was a chance to push myself to see what I could do with what I understand of CSS and HTML, I'm ready to see the improvement in my next project.
+   
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
